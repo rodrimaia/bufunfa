@@ -6,3 +6,6 @@ Usage:
 ``` console  
 python bufunfa.py (your salary in USD)
 ```
+
+---
+Thanks @devlucas
